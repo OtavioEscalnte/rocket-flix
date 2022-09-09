@@ -1,4 +1,4 @@
-# rocket-flix
+# <img src="https://github.com/OtavioEscalnte/rocket-flix/blob/master/assets/favico/favicon-32x32.png"/> rocket-flix
 
 ## Description
 
